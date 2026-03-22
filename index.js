@@ -60,4 +60,4 @@ client.on(Events.InteractionCreate, async interaction => {
 });
 
 // LOGIN
-client.login(process.env.MTQ4NTIwODYxMzU2Mjg3NTk3Ng.GEqxad._wHGQEE6bOyqwcRvERIcN3Z_2XQ2Y3ihQyAnIg);
+client.login(process.env.TOKEN);
